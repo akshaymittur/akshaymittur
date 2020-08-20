@@ -9,9 +9,6 @@
 
 #### Bump my fist [👊](https://github.com/akshaymittur?tab=repositories) to check out my repos!
 
-### Spotify Playing 🎧
-[<img src="https://i.ytimg.com/vi/5qap5aO4i9A/maxresdefault.jpg" alt="Spotify Playing" width="150" />](https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM)
-
 ### Connect with me:
 
 [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="22px">](https://www.linkedin.com/in/akshay-mittur)
