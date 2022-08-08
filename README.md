@@ -1,8 +1,8 @@
 ## Hi there, I'm Akshay 👋
 
-### I'm a Student by Day & Developer by Night!
+### I'm a Developer by Day!
 
-- 📖 I’m currently a 3rd year Computer Science Undergrad!
+- 📖 Grad with Computer Science and Engineering Major
 - 👯 I’m looking to collaborate with other developers on projects
 - 💬 Reach out to me with the links below and lets have a chat!
 - ⚡ Cool Fact: _About **90%** of the World’s Currency Only Exists on Computers_
